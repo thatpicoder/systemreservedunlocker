@@ -1,2 +1,3 @@
 # systemreservedunlocker
-.bat script that unlocks system reserved on windows
+.bat script that unlocks the system reserved partition on windows
+- must run as admin
